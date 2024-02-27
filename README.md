@@ -18,8 +18,9 @@ Welcome to the Clinic Management System (WinForm) project! This application simp
 - **Authentication:** Username and Password
 
 ## Contributors
-- John Doe (@john_doe)
-- Jane Smith (@jane_smith)
+- Basem Mohamed (@basem1998)
+- Ahmed Yosury (@Ahmed-yosury)
+- Safaa Mohamed (@safaamohamed225)
 
 
 
