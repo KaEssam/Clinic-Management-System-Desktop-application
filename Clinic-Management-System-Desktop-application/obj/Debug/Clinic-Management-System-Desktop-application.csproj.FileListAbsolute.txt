@@ -1,0 +1,210 @@
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+H:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.Patient.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CopyComplete
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+H:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-M.1EB66475.Up2Date
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+D:\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+D:\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CopyComplete
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+C:\Users\mm\OneDrive\سطح المكتب\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CopyComplete
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.Login.resources
+C:\DesktopProject\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.AppointmentForm.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.AppointmentForm.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.Login.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\Users\mm\OneDrive\سطح المكتب\New folder\project222\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CopyComplete
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.AppointmentForm.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.Login.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CopyComplete
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+C:\DesktopProject\Desktop Application\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe.config
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.exe
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\Clinic-Management-System-Desktop-application.pdb
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.xml
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.AssemblyReference.cache
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AdminOverview.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.AddPatient.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.AllPatient.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Medicien.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.CreateDB.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Migrations.ClinicDB.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Properties.Resources.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Session.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.AppointmentForm.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Safa.Login.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Ahmed_yosury.Receptionist.en-US.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-UM.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic_Management_System_Desktop_application.Karim_Essam.DoctorOverview.en-US.resources
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.GenerateResource.cache
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.csproj.CoreCompileInputs.cache
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-US\Clinic-Management-System-Desktop-application.resources.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\en-UM\Clinic-Management-System-Desktop-application.resources.dll
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-M.1EB66475.Up2Date
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.exe
+D:\New folder (6)\project222\project222\Clinic-Management-System-Desktop-application\obj\Debug\Clinic-Management-System-Desktop-application.pdb
